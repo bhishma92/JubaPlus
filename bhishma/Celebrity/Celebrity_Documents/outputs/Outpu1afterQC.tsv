@@ -1,0 +1,7 @@
+			#visits(sessions)					Duration over that vists					day difference				Session Frequency	Frequency Ratio
+value visitors	Total #unique IDs		1 session	2  sessions	3  sessions	4  sessions	5 sessions+	1 session	2  sessions	3  sessions	4  sessions	5 sessions+	1~2	2~3	3~4	4~5		
+tier1:bouncer (1 session/one page only)	870604		870604	0	0	0	0	0:00:13	0	0	0	0	0	0	0	0	870604
+tier2: 1x Session/ 2+ pages	1020321		1020321	0	0	0	0	0:06:08	0	0	0	0	0	0	0	0	1020321
+tier3: High value visitors (2+ sessions/2+ pages)	308236		308236	308236	160691	100943	69322	0:11:06	0:09:56	0:10:54	0:11:12	0:11:19	7	5	5	4	1239807
+tier4: converters (book or held online)	7446		7446	5773	4805	4094	3499	0:33:21	0:28:34	0:25:54	0:24:36	0:19:46	4	3	3	3	60809
+User count	2206607
