@@ -60,14 +60,6 @@ def main():
 
 	df.to_csv("/home/dummy/try/dataSpec.tsv", index = False, header= False, sep='\t')
 
-	print len(df)
-
-	print count, i
-
-	#print df.head(10)
-
-	#print df.tail(2000)
-
 	time_stop = timeit.default_timer()
 
 	print time_stop - time_start
